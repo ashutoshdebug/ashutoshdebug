@@ -10,6 +10,5 @@ I am currently working on building an OSS buddy!<br>I am looking to collaborate 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ashutoshdebug&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ashutoshdebug&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashutoshdebug&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashutoshdebug&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
